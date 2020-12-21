@@ -10,6 +10,7 @@
 || | dalibor@farny.cz
 || |
 || | This is a minimal code that demostrates the functions of the Blub hardware. You can base your applications on this code.
+|| | Use "Arduino Nano" as the board option and "ATmega328p" as the processor option in the Arduino IDE application.
 || |
 || #
 ||
